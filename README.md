@@ -1,1 +1,1 @@
-# hardware_interface_bluetooth
+# Bluetooth HAL for usb dongle
